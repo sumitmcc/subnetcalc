@@ -1,3 +1,5 @@
+# Author: Sumit Chachadi
+
 # This Program calculates:
 # Number of hosts per subnet,
 # Number of mask bits,
