@@ -29,13 +29,13 @@ When the program is run, the following prompt is obtained:
 
 Type the desired IP address that you want to find information about and press Enter. The next prompt is:
 
-```Enter a subnet mask: ``` 
+```Enter a subnet mask:```
 
 Type the subnet mask corresponding to the IP address given and press Enter. After the information is generated, the program prompts for the generation of a random IP address. It's totally upto you! type 'y' for yes or 'n' for no and press Enter.
 
 ### Example
-
-```Enter an IP address: 10.0.0.1
+```
+Enter an IP address: 10.0.0.1
 Enter a subnet mask: 255.0.0.0
 
 
@@ -51,8 +51,9 @@ Random IP address is: 10.182.239.24
 
 
 Generate random ip address from subnet? (y/n)n
-Ok, bye!```
+Ok, bye! 
 
+```
 ## Author
 
 * **Sumit Chachadi** *-sumitmal@buffalo.edu*
